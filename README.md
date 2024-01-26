@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle</h1>
-<h3 align="center">A future actuary with a lot of passios for statitstics</h3>
+<h3 align="center">A future actuary with a lot of passions for statitstics</h3>
 
 - 🔭 I have worked with [generalized linear models](https://github.com/michellenavalz/modelos_lineales_generalizados)
 
